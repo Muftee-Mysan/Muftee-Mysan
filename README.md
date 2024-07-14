@@ -1,14 +1,18 @@
-## Hi there 👋
+## Hello World! 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="www.linkedin.com/in/muftee-mysan-35795823b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/muftee-mysan-35795823b">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn Badge" width="40" height="40"/>
   </a>
   <a href="https://x.com/Muftee14">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter Badge" width="40" height="40"/>
   </a>
+</div>
+
+
+</div>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Muftee-Mysan&style=flat-square&color=blue" alt=""/>
 <div align="center">
@@ -21,7 +25,8 @@ Welcome to my GitHub profile! I'm a passionate Electronics and Telecomunications
 - 💻 Currently, I'm working on a couple of robotics projects and an IOT based project. 
 - ✍️ I also enjoy sharing my knowledge through blogs.
 - ⚡ In my free time, I play cricket for my University!
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Muftee-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/muftee-mysan-35795823b)
+📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Muftee-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muftee-mysan-35795823b)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
