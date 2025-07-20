@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 Welcome to my GitHub profile! I'm a passionate Electronics and Telecomunications Engineering Undergraduate Student. 
-- 💻 Currently, I'm working on Deep Learning and Computer Vision Porjects.
+- 💻 Currently, I'm working on Deep Learning and Computer Vision Projects.
 - ✍️ I also enjoy sharing my experience through blogs. You can check out my blogs on Medium: https://medium.com/@mufteemysan
 - ⚡ In my free time, I play cricket for my University!
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Muftee-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muftee-mysan-35795823b)
